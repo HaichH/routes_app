@@ -3,6 +3,10 @@
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-
     <string name="action_settings">Settings</string>
+    <string name="selfTrackTitle">Track yourself and share location</string>
+    <string name="selfTrackContent">You can track yourself in real-time by creating a tracking code and sending that to
+    anyone else you would like to have access to your location</string>
+    <string name="selfTrackGetStarted">Get Started</string>
+    <string name="selfTrackHelp">More info</string>
 </resources>
